@@ -1,0 +1,14 @@
+C:\Users\hyago\source\repos\Debiaann\Debiaann\bin\Debug\net8.0\Debiaann.exe
+C:\Users\hyago\source\repos\Debiaann\Debiaann\bin\Debug\net8.0\Debiaann.deps.json
+C:\Users\hyago\source\repos\Debiaann\Debiaann\bin\Debug\net8.0\Debiaann.runtimeconfig.json
+C:\Users\hyago\source\repos\Debiaann\Debiaann\bin\Debug\net8.0\Debiaann.dll
+C:\Users\hyago\source\repos\Debiaann\Debiaann\bin\Debug\net8.0\Debiaann.pdb
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\Debiaann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\Debiaann.AssemblyInfoInputs.cache
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\Debiaann.AssemblyInfo.cs
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\Debiaann.csproj.CoreCompileInputs.cache
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\Debiaann.dll
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\refint\Debiaann.dll
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\Debiaann.pdb
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\Debiaann.genruntimeconfig.cache
+C:\Users\hyago\source\repos\Debiaann\Debiaann\obj\Debug\net8.0\ref\Debiaann.dll
